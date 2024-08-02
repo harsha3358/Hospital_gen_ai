@@ -1,4 +1,4 @@
-This mini-project leverages the power of generative AI to provide personalized suggestions and support. By utilizing API keys, the project connects to AI services to generate insights and recommendations based on user input. The aim is to offer users meaningful guidance tailored to their specific circumstances.
+# This mini-project leverages the power of generative AI to provide personalized suggestions and support. By utilizing API keys, the project connects to AI services to generate insights and recommendations based on user input. The aim is to offer users meaningful guidance tailored to their specific circumstances.
 
 ## Features
 
@@ -21,3 +21,6 @@ To get started with this project, follow these steps:
 3. Configure the project with your API keys and any other required settings.
 4. Run the project and start entering your details to receive suggestions.
 
+# In the above code i have provided the fake api key just for refrence and that should not be used and everyone who needs to use it just follow my steps provided  to claim your api key and there are different websites that can provide a free api key to every user .
+>> here i have used api key from OPENAI and this is completely chargeble 
+>> The google is providing the free api key go and visit the official google api reference website .
